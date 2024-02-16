@@ -1,0 +1,23 @@
+{
+  "name": "ami-caller",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node ./src/index",
+    "dev": "nodemon ./src/index"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Uchkun Rakhimov",
+    "email": "uchkunrakhimov@gmail.com",
+    "url": "https://github.com/p4thelion"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "asterisk-manager": "^0.2.0",
+    "dotenv": "^16.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
