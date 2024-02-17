@@ -4,7 +4,7 @@
 
 Submitted the initial version for review.
 
-## [0.0.1] - 2024-02-17
+## [0.0.2] - 2024-02-17
 
 After the review was finished, additional modifications were implemented.
 
