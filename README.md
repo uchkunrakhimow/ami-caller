@@ -13,5 +13,6 @@ Before running this project, ensure you have the following installed on your sys
 
 ```bash
   npm install
+  cp .env.example .env
   npm run dev
 ```

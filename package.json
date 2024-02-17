@@ -1,12 +1,15 @@
 {
   "name": "ami-caller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
+  "engines" : {
+    "npm" : ">=10.0.0",
+    "node" : ">=20.0.0"
+  },
   "scripts": {
     "serve": "node ./src/index",
     "dev": "nodemon ./src/index"
   },
-  "keywords": [],
   "author": {
     "name": "Uchkun Rakhimov",
     "email": "uchkunrakhimov@gmail.com",
