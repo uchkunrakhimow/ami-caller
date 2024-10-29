@@ -20,3 +20,8 @@ After the review was finished, additional modifications were implemented.
 
 - Changed the .env file to .env.example
 - Changed version in package.json
+
+
+## [0.0.3] - 2024-10-29
+
+Codes were optimized, packages were updated
